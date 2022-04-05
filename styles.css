@@ -1,0 +1,23 @@
+
+main{
+display: flex;
+}
+main img{
+    width: 33%;
+}
+nav{
+    display: flex;
+}
+nav a{
+    flex: 1;
+    border:1px solid rgb(21, 121, 243);
+    text-align: center;
+    line-height:3em;
+    background-color: rgb(28, 151, 223);
+}
+aside img{
+    width: 50%;
+}
+aside{
+    text-align: center;
+}
